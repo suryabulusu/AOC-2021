@@ -9,4 +9,6 @@ Day07 Part 2: Minimizing sum of L1 and L2 norm constrained to integers has no cl
 
 AOC-2021 subreddit has several great links to implementations. Found this repo particularly cool: https://github.com/DenverCoder1/Advent-of-Code-2021; object-oriented + comment/documentation style + typing
 
+Day15 L51: I did not change this implementation at all for Part-2. I suppose these are the gains of object-oriented programming. Like in a diagram (periodic table, subway maps); with OOP it becomes easier to identify patterns, areas that need attention, and overall info dissemination. I might not have quickly realized updates for Part-2 with a crude dijkstra implementation (like my [earlier dijkstra code](https://github.com/suryabulusu/CSES-Python/blob/bb827e40ea8e1bf6536b1201925aaadefdccb2d2/Python_Code/Shortest_Routes_I.py)). 
+
 

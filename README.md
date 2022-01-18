@@ -15,6 +15,8 @@ Most puzzles are fun to think through. The focus is not only on data structures 
   <img alt="day17: time range for y" src="fig/pyt_time_range.png" width="45%">
 </p>
 
+Update: Tried animation with `pygame` following https://github.com/p88h/aoc2021/blob/main/vis/common.py
+Requires `ffmpeg-python`; fails to accept pattern filename [WIP]
 
 Some additional thoughts/takeaways:
 
